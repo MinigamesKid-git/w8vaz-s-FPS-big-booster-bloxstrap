@@ -1,0 +1,22 @@
+{
+  "DFIntTaskSchedulerTargetFps": 9999,
+  "FFlagTaskSchedulerLimitTargetFpsToMonitorRefreshRate": false,
+  "DFFlagTextureQualityOverrideEnabled": true,
+  "DFIntTextureQualityOverride": 0,
+  "FFlagDebugDisableGeomVolumetricLights": true,
+  "FFlagRenderVolumetricCloudsAndFog": false,
+  "FFlagDebugForceFutureIsBrightPhase2": true,
+  "FFlagDebugForceFutureIsBrightPhase3": false,
+  "FFlagDebugForceCompatibilityLighting": true,
+  "DFIntFRMMinLevel": 1,
+  "DFIntFRMMaxLevel": 1,
+  "DFIntRenderFrameRateGraphicsQualityBias": 1,
+  "FFlagRenderGlow": false,
+  "FFlagRenderShadows": false,
+  "FFlagRenderLocalDimming": false,
+  "FFlagMsaaSmoothInterp": false,
+  "DFIntCSGLevelOfDetailLowQuality": 500,
+  "FFlagDebugDisablePostEffects": true,
+  "FFlagDebugForceNoPostEffects": true,
+  "DFIntMaxMeshAndUnionDetail": 0
+}
